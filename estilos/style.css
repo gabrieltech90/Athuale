@@ -26,7 +26,12 @@ div#p1 >img{
       background-repeat: no-repeat;
     }
 
-body , html{
+html {
+    background-color: #712425;
+    height: auto;
+    width: auto;
+}
+body {
     background-image: linear-gradient(to right,#712425,#331315);
     height: auto;
     width: auto;
@@ -39,11 +44,11 @@ header-box {
     background-image: linear-gradient(to right,#712425,#331315);
     
     
-     
+    text-align: center;   
     
 }
 header{
-     background-image: linear-gradient(to right,#712425,#331315);
+    
     
     text-align: center;   
     
