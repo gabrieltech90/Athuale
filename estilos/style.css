@@ -87,7 +87,7 @@ menu>ul>li>a:hover{
 }
 
 main{
-    width: 90vw;
+    width: 70vw;
     background-image: linear-gradient(to bottom,white,#B88F1F);
     margin: auto;
     padding: 10px;
@@ -101,14 +101,13 @@ article>h2{
 
 }
 article>p{
+    
     text-align: justify;
     margin-bottom: 20px;
     text-indent: 20px;
     width: 373px;
     text-align: justify;
     border-radius: 10px;
-    position: relative;
-    top: -145px;
-    left: 332px;
+    
 }
 
