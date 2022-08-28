@@ -27,9 +27,8 @@ div#p1 >img{
     }
 
 html {
-    background-color: #712425;
-    height: auto;
-    width: auto;
+    background-color: #71242500;
+    
 }
 body {
     background-image: linear-gradient(to right,#712425,#331315);
@@ -40,13 +39,9 @@ body {
 head{
     background-image: linear-gradient(to right,#712425,#331315);
 }
-header-box {
-    background-image: linear-gradient(to right,#712425,#331315);
+   
     
-    
-    text-align: center;   
-    
-}
+
 header{
     
     
@@ -125,6 +120,7 @@ menu>ul>li> a:hover{
 
 main{
     width: 90vw;
+    height: auto;
     background-image: linear-gradient(to bottom,white,#B88F1F);
     margin: auto;
     padding: 10px;
@@ -136,6 +132,7 @@ main{
 
 article>h2{
     padding-bottom: 20px;
+    font-size: 1.5em;
 
 }
 article>p{
@@ -144,7 +141,7 @@ article>p{
     margin-bottom: 20px;
     text-indent: 20px;
     
-    text-align: justify;
+   
     border-radius: 10px;
     
 }
