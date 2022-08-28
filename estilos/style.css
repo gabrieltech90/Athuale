@@ -31,12 +31,10 @@ body , html{
     height: auto;
     width: auto;
 }
-head{
-    background-image: linear-gradient(to right,#712425,#331315);
-}
+
 
 header{
-    background-image: linear-gradient(to right,#712425,#331315);
+    
     
     text-align: center;   
     
