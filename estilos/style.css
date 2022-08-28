@@ -6,6 +6,7 @@
 }
 
 div#p1 >img{
+    width: auto;
     display: block;
     border-radius: 10px;
     margin: auto;
