@@ -13,21 +13,27 @@
 @media screen and (min-width: 565px) {
     span#burguer {
         display: none;
+        
     }
         menu{
             display: block;
+            text-align: start;
+            
+            
            
             
         }
         menu > ul > li{
             display: inline-block;            
-            width: 100px;
+            width: 100px;   
             
-       
+              
+                       }
+
         
 
-        }
-    }
+
+}
 
         
     
