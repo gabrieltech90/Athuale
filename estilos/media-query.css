@@ -20,9 +20,8 @@
             
         }
         menu > ul > li{
-            display: inline-block;
-            text-align:left ;
-            width: max-content;
+            display: inline-block;            
+            width: 100px;
             
        
         
