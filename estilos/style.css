@@ -32,7 +32,16 @@ body , html{
     width: auto;
 }
 
-
+head{
+    background-image: linear-gradient(to right,#712425,#331315);
+}
+header-box {
+    background-image: linear-gradient(to right,#712425,#331315);
+    
+    
+     
+    
+}
 header{
     
     
