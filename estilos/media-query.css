@@ -1,0 +1,35 @@
+@charset "UTF-8";
+ 
+
+@media print {
+    main::after{
+        content:'Essa impressão foi feita atravez do site www.audademediaquery.com.br' ;
+        text-decoration: overline;}
+    
+    } 
+   
+
+  
+@media screen and (min-width: 565px) {
+    span#burguer {
+        display: none;
+    }
+        menu{
+            display: block;
+           
+            
+        }
+        menu > ul > li{
+            display: inline-block;
+            text-align:left ;
+            width: max-content;
+            
+       
+        
+
+        }
+    }
+
+        
+    
+

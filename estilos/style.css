@@ -8,9 +8,9 @@
 div#p1 >img{
     display: block;
     border-radius: 10px;
-    position: relative;
-    top: 1px;
-    left: 1px;
+    margin: auto;
+    padding: auto;
+    
 }
 
 
@@ -21,9 +21,10 @@ div#p1 >img{
       -webkit-background-clip: text;  
       -webkit-text-fill-color: transparent;
       color: black;
+      background-repeat: no-repeat;
     }
 
-body, html{
+body , html{
     background-image: linear-gradient(to right,#712425,#331315)
 }
 
@@ -101,11 +102,11 @@ article>h2{
 
 }
 article>p{
-    
+    margin: auto;
     text-align: justify;
     margin-bottom: 20px;
     text-indent: 20px;
-    width: 373px;
+    
     text-align: justify;
     border-radius: 10px;
     
