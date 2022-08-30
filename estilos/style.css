@@ -24,6 +24,7 @@ div#p1 >img{
       -webkit-text-fill-color: transparent;
       color: black;
       background-repeat: no-repeat;
+      
     }
 
 html {
@@ -66,6 +67,7 @@ header>h2 {
     line-height: 1.1;
     
 }
+
 span#burguer{
     background-image: linear-gradient(to right,#712425,#331315);
     background-image: linear-gradient(to bottom,white,#B88F1F);
@@ -136,26 +138,56 @@ article>h2{
 
 }
 article>p{
+    width: 90%;
     margin: auto;
     text-align: justify;
-    margin-bottom: 20px;
-    text-indent: 20px;
+    margin-bottom: 10px;
+    
+    
     
    
-    border-radius: 10px;
+    border-radius: 5px;
+    
+}
+
+.ser h3{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 1.5em;  
+}
+
+.ser ul li {
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+.ser p  {
+    
+    width: 90%;
+    padding-left: 1%;
+    text-align: justify;
+    margin-bottom: 10px;
+    
+    
+    
+   
+    border-radius: 5px;
     
 }
 footer{
-    background-color: #331315;
-    color: white;
-    text-align: center;
-    padding: 4px;
-    margin: 0px;
-    position: relative;
-    top: 141px;
+   
+  
+    position: fixed;
+    bottom: 0;
+    padding-left: 30%;
+    padding-right: 30%;
     
 
 } 
 footer > p{
-    margin: 0px;}
+      
+    text-align: center;
+   
+   
+}
 
