@@ -5,13 +5,17 @@
     padding: 0px;
 }
 
+div {
+    padding-bottom: 30px;
+}
 
 div#p1 >img{
     width: 280px;
     display: block;
     border-radius: 10px;
     margin: auto;
-    padding: auto;
+   
+    
     
 }
 
@@ -97,8 +101,9 @@ menu{
 }
 menu > ul{
     list-style-type: none;
-    background-image: linear-gradient(to right,#5a1c1d,#270f10);
-    
+    background-image: linear-gradient(to right,#5a1c1d,#331315);
+    padding-left: 2.1%;
+        
     
 }
 
@@ -109,6 +114,7 @@ menu>ul>li>a{
     background-color: #33131500;
     color: antiquewhite;
     
+    text-align: center;
     
     
     
@@ -121,9 +127,10 @@ menu>ul>li> a:hover{
 }
 
 main{
+    color: #473C1C;
     width: 90vw;
     height: auto;
-    background-image: linear-gradient(to bottom,white,#B88F1F);
+    background-color: #E4D4A9;
     margin: auto;
     padding: 10px;
     border-radius: 10px;
@@ -133,6 +140,7 @@ main{
 }
 
 article>h2{
+    
     padding-bottom: 20px;
     font-size: 1.5em;
 
@@ -177,10 +185,10 @@ article>p{
 footer{
    
   
-    position: fixed;
+    position: absolute;
     bottom: 0;
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 31%;
+    padding-right: 29%;
     
 
 } 
