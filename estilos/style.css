@@ -27,11 +27,11 @@ div#p1 >img{
     }
 
 html {
-    background-color: #712425;
+    background-color: #331315
     
 }
 body {
-    background-image: linear-gradient(to right,#712425,#331315);
+    background-color: #331315 ;
     height: auto;
     width: auto;
 }
